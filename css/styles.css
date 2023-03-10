@@ -35,8 +35,8 @@ footer a:hover {
 	font-weight: bold;
 }
 hr {
-  height:30px;
-  border-width:10;
+  height:3px;
+  border-width:00;
   background-color:#F2Ab00;
-  shad
+  opacity: inherit
 }
